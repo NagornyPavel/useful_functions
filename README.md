@@ -1,7 +1,5 @@
 # useful_functions
-Few features that speed up my work.
-# supporting_functions
-This repo is for me and my using for job. But if you need something, you can take it of course :)
+Few features that speed up my work. If you need something, you can take it of course :)
 
 **WOE and Information Value**
 
